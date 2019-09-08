@@ -148,97 +148,71 @@ hr {
   text-shadow: 0 0 .5rem $color-background;
 }
 
-.pyramid {
-  text-align: center;
-  position: relative;
-  padding: 1px;
+.bg-yellow {
+  background: $color-yellow;
+  text-shadow: 0 0 .5rem $color-background;
 }
 
-.pyramid__clip {
+.bg-orange {
+  background: $color-orange;
+  text-shadow: 0 0 .5rem $color-background;
+}
+
+.pyramid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+
+.pyramid__level {
+  position: relative;
+  white-space: nowrap;
   display: flex;
   justify-content: center;
-  align-items: center;
+  margin-bottom: .5rem;
+  text-shadow: 0 0 .5rem $color-background;
+  padding: .5rem;
+}
+
+.pyramid__level__bg {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  overflow: hidden;
   z-index: -1;
+}
 
+.pyramid__level:first-of-type {
+  padding-top: 1.8rem;
+}
+
+.pyramid__level:last-of-type .pyramid__level__bg {
   &:before, &:after {
     content: "";
+    position: absolute;
+    width: 40rem;
+    height: 3rem;
     background: $color-background;
-    width: 100%;
-    height: 200%;
+    bottom: 0;
   }
 
   &:before {
-    transform-origin: center right;
-    transform: rotate(30deg);
-    margin-right: 6rem;
+    left: 0;
+    transform-origin: bottom left;
+    transform: rotate(-60deg);
   }
 
   &:after {
-    transform-origin: center left;
-    transform: rotate(-30deg);
-    margin-left: 6rem;
+    right: 0;
+    transform-origin: bottom right;
+    transform: rotate(60deg);
   }
 }
 
-.pyramid__level {
-  text-shadow: 0 0 .5rem $color-background;
-  margin-bottom: .5rem;
-  padding: .5rem 0 .5rem 0;
-  position: relative;
-
-  &:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 5rem;
-    width: calc(100% - 10rem);
-    height: 100%;
-    background: $color-comment;
-    z-index: -2;
-  }
-
-  &:nth-of-type(3),
-  &:nth-of-type(4),
-  &:nth-of-type(5) {
-    &:before {
-      left: 0rem;
-      width: 100%;
-    }
-  }
-
-  &:first-of-type {
-    padding-top: 3rem;
-  }
-}
-
-.pyramid__level--blue {
-  &:before {
-    background: $color-blue;
-  }
-}
-.pyramid__level--green {
-  &:before {
-    background: $color-green;
-  }
-}
-.pyramid__level--yellow {
-  &:before {
-    background: $color-yellow;
-  }
-}
-.pyramid__level--orange {
-  &:before {
-    background: $color-orange;
-  }
-}
-.pyramid__level--red {
-  &:before {
-    background: $color-red;
+@for $i from 1 through 10 {
+  .pyramid__level:nth-of-type(#{$i}) {
+    width: $i * 4.3rem;
   }
 }

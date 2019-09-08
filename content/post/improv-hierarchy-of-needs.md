@@ -7,13 +7,25 @@ draft: false
 You've probably seen this before:
 
 <div class="pyramid">
-  <div class="pyramid__clip"></div>
-  <div class="pyramid__levels">
-    <div class="pyramid__level pyramid__level--blue">Self-actualization</div>
-    <div class="pyramid__level pyramid__level--green">Esteem</div>
-    <div class="pyramid__level pyramid__level--yellow">Love/Belonging</div>
-    <div class="pyramid__level pyramid__level--orange">Safety</div>
-    <div class="pyramid__level pyramid__level--red">Psychological</div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-blue"></div>
+    Self-actualization
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-green"></div>
+    Esteem
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-yellow"></div>
+    Love/Belonging
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-orange"></div>
+    Safety
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-red"></div>
+    Psychological
   </div>
 </div>
 
@@ -29,14 +41,42 @@ I think improv has it's own hierarchy of needs, with it's own equivalents of the
 
 <figure>
   <div class="pyramid">
-    <div class="pyramid__clip"></div>
-    <div class="pyramid__levels">
-      <div class="pyramid__level pyramid__level--blue">Audience</div>
-      <div class="pyramid__level pyramid__level--green">Show</div>
-      <div class="pyramid__level pyramid__level--yellow">Scene</div>
-      <div class="pyramid__level pyramid__level--orange">Partner</div>
-      <div class="pyramid__level pyramid__level--red">Self</div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-blue"></div>
+      Audience
     </div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-green"></div>
+      Show
+    </div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-yellow"></div>
+      Scene
+    </div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-orange"></div>
+      Partner
+    </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-blue"></div>
+    Self-actualization
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-green"></div>
+    Esteem
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-yellow"></div>
+    Love/Belonging
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-orange"></div>
+    Safety
+  </div>
+  <div class="pyramid__level">
+    <div class="pyramid__level__bg bg-red"></div>
+    Psychological
+  </div>
   </div>
   <figcaption>
     <h4>Improv's Hierarchy of Needs</h4>
@@ -58,7 +98,26 @@ For the sake of rigor, clarity, and the euphoria of judgement, I'd like to estab
 
 And before we tackle this whole thing, let's first examine a model of a simpler system:
 
-{{Image: Standup comedy's hierarchy of needs. "Self", "Show", "Audience"}}
+<figure>
+  <div class="pyramid">
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-blue"></div>
+      Audience
+    </div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-green"></div>
+      Show
+    </div>
+    <div class="pyramid__level">
+      <div class="pyramid__level__bg bg-red"></div>
+      Self
+    </div>
+  </div>
+  <figcaption>
+    <h4>Standup Comedy's Hierarchy of Needs</h4>
+  </figcaption>
+</figure>
+
 <div class="description">Standup comedy's hierarchy of needs</div>
 
 I don't do standup myself, so if you do, forgive me if this lacks nuance.
