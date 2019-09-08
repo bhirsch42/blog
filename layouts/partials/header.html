@@ -1,0 +1,8 @@
+<head>
+  {{ $style := resources.Get "styles/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+
+<header>
+  <a href="/" class="display-1">🤖</a>
+</header>
