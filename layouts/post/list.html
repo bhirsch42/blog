@@ -1,8 +1,12 @@
-<main id="main">
-  <div>
-  <h1 id="title">{{ .Title }}</h1>
-  {{ range .Pages }}
-    {{ .Render "summary"}}
-  {{ end }}
-  </div>
-</main>
+{{ partial "header.html" . }}
+
+<body>
+  <main id="main">
+    <div>
+    <h1 id="title">{{ .Title }}</h1>
+    {{ range .Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+    </div>
+  </main>
+</body>

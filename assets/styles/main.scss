@@ -18,6 +18,14 @@ body {
   margin: 0;
 }
 
+a {
+  color: $color-blue;
+}
+
+a:visited {
+  color: $color-purple;
+}
+
 .container {
   width: calc(100% - 2rem);
   max-width: 800px;
@@ -47,8 +55,8 @@ figcaption {
   p {
     margin: .25rem 0 0 0;
     padding: 0;
-    font-size: .75rem;
-    line-height: 1rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
     font-style: italic;
   }
 }
@@ -215,4 +223,40 @@ hr {
   .pyramid__level:nth-of-type(#{$i}) {
     width: $i * 4.3rem;
   }
+}
+
+iframe {
+  width: 100%;
+  height: calc(9 / 16 * (100vw - 2rem));
+  max-height: 450px;
+}
+
+pre {
+  line-height: 1rem;
+  display: flex;
+  justify-content: center;
+  color: $color-green;
+
+  code {
+    border: 1px solid $color-comment;
+    padding: 2rem;
+    border-radius: .5rem;
+  }
+}
+
+.footnotes {
+  font-size: 1rem;
+  line-height: 1.5rem;
+
+  li {
+    margin-bottom: 1rem;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 3rem;
+  background: rgba($color-blue, .5);
+  padding: 1rem;
+  text-align: center;
 }

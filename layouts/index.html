@@ -1,5 +1,13 @@
 {{ partial "header.html" . }}
 
 <body>
-  Hello, world! bruh boi bruh
+  <main class="container" id="main">
+    <h1 id="title">{{ .Title }}</h1>
+
+    {{ with .Site.GetPage "/post"}}
+      {{ range .Pages }}
+        {{ .Render "summary"}}
+      {{ end }}
+    {{ end }}
+  </main>
 </body>
