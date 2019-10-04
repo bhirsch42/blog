@@ -1,6 +1,6 @@
 baseURL = "https://blog.benhirsch.info/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Improv for Geniuses"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
@@ -11,11 +11,11 @@ title = "My New Hugo Site"
 
 [[deployment.targets]]
 # An arbitrary name for this target.
-name = "prod"
+# name = "prod"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
 # URL = "gs://<Bucket Name>"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://bhirsch-blog?region=us-east-1"
+# URL = "s3://bhirsch-blog?region=us-east-1"

@@ -1,7 +1,7 @@
 ---
 title: "Fake Scenes"
 date: 2019-09-29T02:37:14-04:00
-draft: true
+draft: false
 ---
 
 The tax for this nugget if improv wisdom is you have to listen to me talk about an EDM concert. [Skip it](#feeling-like-a-scene) if you hate fun.
@@ -38,9 +38,9 @@ You can make an EDM concert feel like a story, when really it's not.
 
 You can also make improvisers doing stuff on a stage feel like a scene, when really it's not.
 
-You're an improv nerd, so you know the structure of typical improv scenes. If it's part of a long form set, it's usually platform, find the thing, heighten the thing, then wipe. If it's more narrative-y as is common in short form, it's something like platform, find the thing, heighten the thing, falling action, button.
+You're an improv nerd, so you know the structure of typical improv scenes. If it's part of a long form set, it's usually platform, find the thing, heighten the thing, then wipe. If it's more narrative-y, as is common in short form, it's something like platform, find the thing, heighten the thing, falling action, button.
 
-Those are the lego pieces, from their assembly emerges an energy curve.
+Those are the lego pieces, and from their assembly emerges an energy curve.
 
 ```
           longform wipe
@@ -71,7 +71,7 @@ Things like platforms, tilts, games, heightening, blah blah blah create this ene
 ––––– 1 –––– 2      (6)
 ```
 
-At (1), instead of establishing concrete relationships and details, just *be calm*. At (2), instead of noticing something in the scene that you want to explore, just *have a big emotional reaction*. At (3), instead of heightening based on the thing you reacted to, just *keep reacting bigger*. At (4), instead of heightening as far as you can go based on the thing you reacted to, *do a flip. Kiss somebody. Yell something personal about your character.* Who cares! Big, big big![^3] If the scene is part of a longform set, you're done! Otherwise, at (5), instead of resolving the scenario based on details form the platform, *hug! Cry! Apologize!*
+At (1), instead of establishing concrete relationships and details, just *be calm*. At (2), instead of noticing something in the scene that you want to explore, just *have a big emotional reaction*. At (3), instead of heightening based on the thing you reacted to, just *keep reacting bigger*. At (4), instead of heightening as far as you can go based on the thing you reacted to, *do a flip. Kiss somebody. Yell something personal about your character.* Who cares! Big, big big![^3] If the scene is part of a longform set, you're done! Otherwise, at (5), instead of resolving the scenario based on details from the platform, *Hug! Cry! Apologize!*
 
 (6) is still the same. Do a callback.
 
@@ -79,7 +79,17 @@ I'm being glib, but I'm not knocking this. And nobody actually does this, anyway
 
 I can't find a source, but I remember a Great Improviser, maybe Susan Messing, said that even top improvisers do a good scene 8/10 times. Sometimes there's nothing inspiring in your platform. Sometimes you're off your game. When those things happen, what separates an improviser who almost always hits from an improviser that hits half the time?
 
-Experienced improvisers can always feel the curve. There are plenty of improvisers who are a joy to watch that don't technically know what it means to find or heighten the thing *because* they can feel the curve. That's the danger of it.
+Experienced improvisers can always feel the curve. There are plenty of improvisers who are a joy to watch that never really learned the lego pieces *because* they can feel the curve. That's the danger of it.
+
+From Will Hines's blog:
+
+> **Q: [...] do you sometimes find that some people are so naturally funny that it hurts their longform work?**
+
+> A: Yeah. Though I don’t like the idea of “funny” being thought of as bad. We’re a comedy theater, being funny is good. I think of people who are so funny they change the game of the scene with everything they say. That’s destructive.[^5]
+
+If your natural humor is too destructive to keep a scene together to the end, eventually you'll have to learn the structure. But if you can feel the curve, you can get away with it forever.
+
+<hr>
 
 If you feel the curve but don't know the lego pieces, you're missing out on funnier, more substantive scenework. If you know the lego pieces but can't feel the curve, your scenes will flop if you don't get your bearings at the top. If you have both, you can shoot from the hip and look like you know what you're doing the whole time, whether you're nailing the underlying structure or not.
 
@@ -89,7 +99,7 @@ Porter Robinson felt the curve. You can make some of my favorite art just by fee
 
 <h2>Exercises</h2>
 
-Here's an exercise straight from Will Hines's [How to Be The Greatest Improviser on Earth](https://smile.amazon.com/How-Be-Greatest-Improviser-Earth-ebook/dp/B079M8RGQC/ref=sr_1_1?keywords=will+hines&link_code=qs&qid=1569744786&sr=8-1). He lists it as an exercise in being present. I think it's also a good drill for feeling the curve.
+Here's an exercise straight from Will Hines's *How to Be The Greatest Improviser on Earth*. He lists it as an exercise in being present. I think it's also a good drill for feeling the curve.
 
 > <h3>Only Numbers</h3>
 
@@ -113,7 +123,7 @@ Here's an exercise straight from Will Hines's [How to Be The Greatest Improviser
 
 > Dialogue has a music to it, and that music communicates a lot. Being present means being in touch with that music.
 
-> Variation: Each person can only say one number. This forces you to use silence and tone to get feeling out of just one word.
+> Variation: Each person can only say one number. This forces you to use silence and tone to get feeling out of just one word.[^6]
 
 
 [^1]: You *really* had to be there, man.
@@ -123,3 +133,8 @@ Here's an exercise straight from Will Hines's [How to Be The Greatest Improviser
 [^3]: Do not underestimate the power of just doing something really, really big. I know an improviser who, if he senses that the audience's attention is drifting, will find a reason to do a flip off something and parkour around the theater. And he's everybody's *favorite*.
 
 [^4]: Link to review of pirate ninja robot
+
+[^5]: https://improvnonsense.tumblr.com/post/556572030/i-feel-like-ive-heard-shades-of-this-from-some
+
+[^6]: https://smile.amazon.com/How-Be-Greatest-Improviser-Earth-ebook/dp/B079M8RGQC
+

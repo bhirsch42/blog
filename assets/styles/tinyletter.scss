@@ -1,0 +1,48 @@
+.tiny-letter-form {
+  text-align: center;
+
+  a {
+    color: $color-comment;
+    font-size: .75rem;
+  }
+
+  input[type=text] {
+    margin-right: .5rem;
+    min-width: 200px;
+  }
+}
+
+input[type=text] {
+  background: $color-background;
+  border: 1px solid $color-purple;
+  color: $color-purple;
+  font-size: 1rem;
+  padding: .5rem;
+  border-radius: .5rem;
+
+  &::placeholder {
+    color: $color-purple;
+  }
+
+  &:focus {
+    outline: none;
+    border-color: $color-light;
+  }
+}
+
+button, input[type=button], input[type=submit] {
+  background: none;
+  border: 1px solid $color-purple;
+  color: $color-purple;;
+  font-size: 1rem;
+  padding: .5rem;
+  border-radius: .5rem;
+  cursor: pointer;
+
+  &:hover {
+    background: $color-purple;
+    color: $color-foreground;
+  }
+
+  transition: background .15s ease, color .15s ease;
+}
