@@ -19,8 +19,6 @@ Here is my detailed description of the steps on the circle. I'm going to get rea
 7. Return (and go back to where they started)
 8. Change (now capable of change)
 
-<br>
-
 <div class="story-circle-container story-circle-container--wide">
   <div class="story-circle">
     <div class="story-circle-fill-bottom"></div>
@@ -131,8 +129,6 @@ Here is my detailed description of the steps on the circle. I'm going to get rea
     </div>
   </div>
 </div>
-
-<br>
 
 <figcaption>
   <p>

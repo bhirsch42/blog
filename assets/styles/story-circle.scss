@@ -245,6 +245,10 @@
   }
 }
 
+.story-circle-container--wide {
+  padding: 4rem 0 !important;
+}
+
 @include story-circle(400px);
 
 @media screen and (max-width: 750px) {
