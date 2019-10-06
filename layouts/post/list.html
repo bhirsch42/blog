@@ -2,11 +2,21 @@
 
 <body>
   <main id="main">
-    <div>
-    <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
+    <div class="container">
+      <h1 id="title">{{ .Title }}</h1>
+      {{ if .Content }}
+        <br>
+        <div class="post__content">
+          {{ .Content }}
+        </div>
+        <br>
+        <hr>
+      {{ end }}
+      {{ range .Pages }}
+        {{ .Render "summary"}}
+      {{ end }}
     </div>
   </main>
 </body>
+
+{{ partial "footer.html" . }}
