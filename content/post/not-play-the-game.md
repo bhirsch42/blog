@@ -12,7 +12,7 @@ From the Harmon on the story circle:
 
 > Q: Why do stories have to follow this structure?
 
-> A: It's not that stories have to follow this structure, it's that, without some semblance of this structure, it's not recognizable as a story.[^2]
+> A: It's not that stories have to follow this structure, it's that, without some semblance of this structure, it's not recognizable as a story.
 
 And then later:
 
@@ -46,6 +46,6 @@ Don't get me wrong, I love playing in different styles. Longform, shortform, fas
 The is part of something I'm thinking about for a longer future post about how every theater's style is just game in disguise, or expressed with less precision. If you're unconvinced that a handfull of upstarts in the 90's actually discovered "the way," maybe this will help.
  -->
 
-[^1]: https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit
+[^1]: I love it enough to [steal the whole thing for my website](/post/the-story-circle).
 
-[^2]: https://channel101.fandom.com/wiki/Story_Structure_106:_Five_Minute_Pilots
+[^2]: Rehosted [here](/post/the-story-circle/story-structure-106). Originally posted [here](https://channel101.fandom.com/wiki/Story_Structure_106:_Five_Minute_Pilots).
