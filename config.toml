@@ -1,6 +1,6 @@
 baseURL = "https://blog.benhirsch.info/"
 languageCode = "en-us"
-title = "Improv for Geniuses"
+title = "Ben's Improv Blog"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
