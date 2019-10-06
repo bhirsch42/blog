@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="389px" viewBox="0 0 355 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>direct-initiation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="direct-initiation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#F92672" stroke-width="3" cx="177.5" cy="211.5" r="175.5"></circle>
+        <rect id="Rectangle" fill="#272822" x="84" y="193" width="148" height="36"></rect>
+        <text id="the-story" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="132" y="17">the story</tspan>
+        </text>
+        <text id="the-initiation" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="92" y="217">the initiation</tspan>
+        </text>
+        <circle id="Oval" stroke="#66D9EF" stroke-width="3" cx="271" cy="210" r="32"></circle>
+    </g>
+</svg>

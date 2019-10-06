@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="389px" viewBox="0 0 355 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>direct-initiation-funny</title>
+    <desc>Created with Sketch.</desc>
+    <g id="direct-initiation-funny" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#F92672" stroke-width="3" cx="177.5" cy="211.5" r="175.5"></circle>
+        <path d="M302.437777,141.151962 C290.32226,138.542467 293.224514,129.062716 279.318319,131.734038 C254.170086,136.564908 275.271444,140.425444 251.568319,143.792632 C228.512625,147.067847 212.080472,142.008808 193.783163,157.698882 C186.475787,163.965009 203.579963,180.080563 199.708944,193.234038 C197.625426,200.313698 190.574741,205.34958 188.841756,212.523101 C176.971962,261.656956 204.781832,236.433397 226.185506,257.843413 C234.827693,266.48816 234.093668,289.218999 248.474569,291.308257 C269.411304,294.349947 253.940427,289.532066 275.271444,282.659819 C284.516001,279.681486 290.469751,286.410917 299.904436,284.104619 C303.611617,283.198403 311.843908,275.808485 314.501913,273.069976 C325.390756,261.851335 346.007937,228.095477 343.559413,212.523101 C343.162551,209.999097 332.896208,202.096586 332.267538,199.620124 C330.781685,193.767044 336.635157,185.390167 333.912586,180 C330.359515,172.965604 324.780039,174.570041 318.490194,168.612944 C310.713817,161.247957 319.925704,153.671982 312.102368,147.940763 L302.437777,141.151962 Z" id="Path" stroke="#A6E22E" stroke-width="3" fill-opacity="0.372814685" fill="#A6E22E" opacity="0.503534226" stroke-dasharray="7"></path>
+        <rect id="Rectangle" fill="#272822" x="84" y="193" width="148" height="36" rx="5"></rect>
+        <text id="the-story" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="132" y="17">the story</tspan>
+        </text>
+        <text id="the-initiation" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="92" y="217">the initiation</tspan>
+        </text>
+        <circle id="Oval" stroke="#66D9EF" stroke-width="3" cx="271" cy="210" r="32"></circle>
+        <text id="the-funny" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="158" y="131">the funny</tspan>
+        </text>
+    </g>
+</svg>

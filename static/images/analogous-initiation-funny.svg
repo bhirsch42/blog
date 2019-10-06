@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="389px" viewBox="0 0 540 389" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>analogous-initiation-funny</title>
+    <desc>Created with Sketch.</desc>
+    <g id="analogous-initiation-funny" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M349.596871,185.674871 C342.058717,191.382018 337.5,200.302786 337.5,210 C337.5,219.872003 342.226594,228.929507 349.978929,234.610198 C350.989641,226.993467 351.5,219.278922 351.5,211.5 C351.5,202.794653 350.86084,194.170559 349.596871,185.674871 Z" id="Combined-Shape" stroke="#272822" stroke-width="3" fill="#A6E22E"></path>
+        <circle id="Oval" stroke="#F92672" stroke-width="3" cx="177.5" cy="211.5" r="175.5"></circle>
+        <rect id="Rectangle" fill="#272822" x="84" y="193" width="148" height="36"></rect>
+        <text id="the-story" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="132" y="17">the story</tspan>
+        </text>
+        <text id="the-initiation" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="409" y="219">the initiation</tspan>
+        </text>
+        <circle id="Oval" stroke="#66D9EF" stroke-width="3" cx="368" cy="210" r="32"></circle>
+        <path id="Line" d="M408.586034,91.7981466 L409.201853,92.5860336 L408.80791,92.8939435 C392.794902,105.409859 381.999923,116.246762 376.426898,125.386523 C371.478114,133.502529 366.337664,147.345343 361.018991,166.899345 L361.152,166.408 L365.01658,167.426515 L358.372647,174.983509 L356.313411,165.134167 L360.186,166.154 L360.539155,164.867402 C365.62778,146.453291 370.559266,133.249768 375.345305,125.24325 L375.573102,124.865916 C381.220947,115.60345 392.092635,104.68954 408.19209,92.1060565 L408.19209,92.1060565 L408.586034,91.7981466 Z" fill="#A6E22E" fill-rule="nonzero"></path>
+        <text id="the-funny" font-size="24" font-weight="normal" fill="#F8F8F2">
+            <tspan x="414" y="86">the funny</tspan>
+        </text>
+    </g>
+</svg>
