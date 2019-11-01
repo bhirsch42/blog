@@ -8,7 +8,7 @@ The tax for this nugget if improv wisdom is you have to listen to me talk about 
 
 <h2>Ben turns up</h2>
 
-A few months ago, I went to Second Sky fest. It was organized by Porter Robinson, one of my favorite artists and creator of one of my favorite albums, "Worlds", at first blush, is just a bunch of sick EDM bangers. But when you listen more, you hear some of that good "this is an *album*, not just songs" kinda stuff. It's got an interlude, some reprises– it really brings the room together.
+A few months ago, I went to Second Sky fest. It was organized by Porter Robinson, one of my favorite artists and creator of one of my favorite albums, "Worlds" which, at first blush, is just a bunch of sick EDM bangers. But when you listen more, you hear some of that good "this is an *album*, not just songs" kinda stuff. It's got an interlude, some reprises– it really brings the room together.
 
 And then, at the end of the album, something crazy happens.
 
