@@ -38,7 +38,7 @@ So, my analogous challenges are:
 
 When you try to step away from this structure, maybe to do more "relationship driven" or "slower" scenes, when your scenes are successful, you're going to realize with horror that you've accidentally played a game.
 
-Don't get me wrong, I love playing in different styles. Longform, shortform, fast, slow, narrative, relationship-driven, attack-the-game, themematic, you name it. But I don't consider any of those things to be *instead* of game. They're all built *on top* of it.
+Don't get me wrong, I love playing in different styles. Longform, shortform, fast, slow, narrative, relationship-driven, attack-the-game, thematic, you name it. But I don't consider any of those things to be *instead* of game. They're all built *on top* of it.
 
 <!-- What are the parts of a "UCB style" scene?
 

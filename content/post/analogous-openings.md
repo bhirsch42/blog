@@ -29,7 +29,7 @@ An analogous initiation is a way to
 
 in a single move. If you laugh at something, it's because it made you form mental connections. When someone makes an analogous move, it's immediately funny because you follow that person's logic from the source material to their offer. And since everybody is deducing the same thought path, everybody ends up on exactly the same page.
 
-What if Daly had instead entered as Ed Helms, at school? What if his initiation was situation entirely within the story?
+What if Daly had instead entered as Ed Helms, at school? What if his initiation was situated entirely within the story?
 
 <img src="/images/direct-initiation.svg" alt="">
 
