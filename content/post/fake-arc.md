@@ -31,6 +31,7 @@ The story circle tells us, something feels like a story if it starts where it en
 
 I'm really just writing this post to say, that drop was sick and you missed out. EDM is an arms race of sickest drops, and Porter still managed to do something big and surprising and beautiful and blinding and evocative.[^1] It was the biggest moment of the night, and it was in the *middle* of his show, which isn't how concerts are supposed to work. Concerts put that at the end. But he's not going for "concert", he's going for story.
 
+EDIT 3/24/2020: They took down the video :(. Guess you'll *really* never know, now. Also, coronavirus is a bummer.
 <hr>
 <h2 id="feeling-like-a-scene">Feeling like a scene</h2>
 
@@ -71,7 +72,7 @@ Things like platforms, tilts, games, heightening, blah blah blah create this ene
 ––––– 1 –––– 2      (6)
 ```
 
-At (1), instead of establishing concrete relationships and details, just *be calm*. At (2), instead of noticing something in the scene that you want to explore, just *have a big emotional reaction*. At (3), instead of heightening based on the thing you reacted to, just *keep reacting bigger*. At (4), instead of heightening as far as you can go based on the thing you reacted to, *do a flip. Kiss somebody. Yell something personal about your character.* Who cares! Big, big big![^3] If the scene is part of a longform set, you're done! Otherwise, at (5), instead of resolving the scenario based on details from the platform, *Hug! Cry! Apologize!*
+At (1), instead of establishing concrete relationships and details, just *be calm*. At (2), instead of noticing something in the scene that you want to explore, just *have a big emotional reaction*. At (3), instead of heightening based on the thing you reacted to, just *keep reacting bigger*. At (4), instead of heightening as far as you can go based on the thing you reacted to, *do a flip. Kiss somebody. Yell something personal about your character.* Who cares! Big big big![^3] If the scene is part of a longform set, you're done! Otherwise, at (5), instead of resolving the scenario based on details from the platform, *Hug! Cry! Apologize!*
 
 (6) is still the same. Do a callback.
 
