@@ -78,7 +78,7 @@ Bob's not changing his offer enough. By only changing what he's cooking, he's bo
 
 > Audience: _Guffaws_
 
-This does work. Pretty consistently. But it also gets predictable if you "rule of three's" it every time. It's basically (2) fishing, except instead of fishing for a ding, you're fishing for a not-ding. You can totally do this and get away with it forever, but to _kill_ at Shoulda Said, I say retire it after the first minute of the scene. At that point, even the newest improv-goer gets whats going on and doesn't need the comedic training wheels.
+This does work. Pretty consistently. But it also gets predictable if you "rule of three" it every time. It's basically (2) fishing, except instead of fishing for a ding, you're fishing for a not-ding. You can totally do this and get away with it forever, but to _kill_ at Shoulda Said, I say retire it after the first minute of the scene. At that point, even the newest improv-goer gets whats going on and doesn't need the comedic training wheels.
 
 > Alice: Honey, I'm home!
 
