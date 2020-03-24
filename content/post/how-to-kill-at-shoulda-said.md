@@ -26,7 +26,7 @@ Your improvisers might have some backup ideas locked and loaded. Flush them out.
 
 ### 4. There's no "right" number of times to ding in a row.
 
-If you ding an offer and their next one gets a laugh, let it ride. You don't have to "rule of three's" it. Conversely, if you've dinged them three times and none of their ideas are landing, keep going. It's fun to watch them squirm. If they're _really_ struggling let them off the hook. Six dings without any interesting ideas probably means they're making offers that are too similar to one another anyway, so move on.
+If you ding an offer and their next one gets a laugh, let it ride. You don't have to "rule of three" it. Conversely, if you've dinged them three times and none of their ideas are landing, keep going. It's fun to watch them squirm. If they're _really_ struggling let them off the hook. Six dings without any interesting ideas probably means they're making offers that are too similar to one another anyway, so move on.
 
 ### 5. Turn up the heat.
 
@@ -52,45 +52,45 @@ How you think about changing your offer is the most important part of killing at
 
 > Bob: I'm cooking <span class="text-green">fish</span>!
 
-> Bell: Ding!
+> Host: Ding!
 
 > Bob: I'm cooking <span class="text-yellow">steak</span>!
 
-> Bell: Ding!
+> Host: Ding!
 
 > Bob: I'm cooking <span class="text-orange">veggie burgers</span>!
 
 > Audience: Zzz
 
-Bob's not changing his offer enough. By only changing what he's cooking, he's boxed himself in to a whole category of offers that are 99% boring. Really change you offer! But I'd like to discourage doing it like this:
+Bob's not changing his offer enough. By only changing what he's cooking, he's boxed himself in to a whole category of offers that are 99% boring. Really change your offer! But I'd like to discourage doing it like this:
 
 > Alice: Honey, I'm home!
 
 > Bob: I'm cooking <span class="text-green">fish</span>!
 
-> Bell: Ding!
+> Host: Ding!
 
 > Bob: I'm cooking <span class="text-yellow">steak</span>!
 
-> Bell: Ding!
+> Host: Ding!
 
 > Bob: I'm <span class="text-orange">leaving you</span>!
 
 > Audience: _Guffaws_
 
-This does work. Pretty consistently. But it also gets predictable if you "rule of three" it every time. It's basically (2) fishing, except instead of fishing for a ding, you're fishing for a not-ding. You can totally do this and get away with it forever, but to _kill_ at Shoulda Said, I say retire it after the first minute of the scene. At that point, even the newest improv-goer gets whats going on and doesn't need the comedic training wheels.
+This does work. Pretty consistently. But it also gets predictable if you "rule of three" it every time. It's basically fishing, except instead of fishing for a ding, you're fishing for a not-ding. You can totally do this and get away with it forever, but to _kill_ at Shoulda Said, I say retire it after the first minute of the scene. At that point, even the newest improv-goer gets whats going on and doesn't need the comedic training wheels.
 
 > Alice: Honey, I'm home!
 
 > Bob: I'm cooking <span class="text-green">fish</span>!
 
-> Bell: Ding!
+> Host: Ding!
 
 > Bob: I'm <span class="text-yellow">leaving you</span>!
 
 > Audience: _Guffaws_
 
-> Bell (_having seen a million divorce scenes_): Ding!
+> Host (_having seen a million divorce scenes_): Ding!
 
 > Bob (_visibly out of ideas_): <span class="text-orange">...AAAAH my hand is on fire!</span>
 
