@@ -20,15 +20,15 @@ There are exceptions. <span class="text-green">DO</span> ding a laugh if you thi
 
 If the audience is small or just not feelin' it yet, you can substitute audience response with whether YOU think the offer is funny or interesting or worth exploring.
 
-### 4. Push your players.
+### 3. Push your players.
 
 Your improvisers might have some backup ideas locked and loaded. Flush them out. Make them think of something right in that moment.
 
-### 5. There's no "right" number of times to ding in a row.
+### 4. There's no "right" number of times to ding in a row.
 
 If you ding an offer and their next one gets a laugh, let it ride. You don't have to "rule of three's" it. Conversely, if you've dinged them three times and none of their ideas are landing, keep going. It's fun to watch them squirm. If they're _really_ struggling let them off the hook. Six dings without any interesting ideas probably means they're making offers that are too similar to one another anyway, so move on.
 
-### 6. Turn up the heat.
+### 5. Turn up the heat.
 
 Ding something in the first thirty seconds of the scene. If you don't, the audience starts to wonder if you forgot what game you're playing. Take it kind of easy at the start. Let your improvisers establish a solid platform, but turn it up as the game continues. By the end, every third line should be gettin' that ding.
 
