@@ -16,6 +16,16 @@
         {{ .Render "summary"}}
       {{ end }}
     </div>
+
+    <div class="section-nav">
+      <div class="section-nav__center">
+        {{with .Parent}}
+          <a href="/" class="nav-btn">
+            <span class="nav-icon">👋</span>
+          </a>
+        {{end}}
+      </div>
+    </div>
   </main>
 </body>
 
