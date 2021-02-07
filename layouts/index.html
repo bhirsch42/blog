@@ -5,7 +5,7 @@
     <h1 class="mb-0" id="title">{{ .Title }}</h1>
 
     {{ with .Site.GetPage "/post"}}
-      {{ range .Pages }}
+      {{ range where .Pages "Params.include" "!=" "true"}}
         {{ .Render "summary"}}
       {{ end }}
     {{ end }}

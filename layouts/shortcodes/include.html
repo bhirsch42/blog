@@ -1,0 +1,7 @@
+{{$dir := (.Get 0)}}
+
+{{ with .Site.GetPage "/post" }}
+{{ with .GetPage $dir}}
+{{ .Content }}
+{{ end }}
+{{ end }}

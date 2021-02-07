@@ -137,6 +137,40 @@ blockquote {
   margin: 0 0 0 1rem;
 }
 
+figure {
+  display: block;
+  margin-inline-start: 0rem;
+  margin-inline-end: 0rem;
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+
+  @media screen and (max-width: 600px) {
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (min-width: 600px) {
+    &.pull-right, &.pull-left {
+      margin-inline-start: 1rem;
+      margin-inline-end: 1rem;
+      margin-block-start: 1rem;
+      margin-block-end: 1rem;
+
+      img {
+        max-width: 20rem !important;
+        max-height: 30rem !important;
+      }
+    }
+  }
+}
+
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
+}
+
 figcaption {
   text-align: center;
 
@@ -152,5 +186,58 @@ figcaption {
     font-size: 1rem;
     line-height: 1.5rem;
     font-style: italic;
+  }
+}
+
+.section-nav {
+  display: flex;
+  text-align: center;
+}
+
+.section-nav__left {
+  display: flex;
+}
+
+.section-nav__center {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  padding: 0 1rem 0 1rem;
+}
+
+.section-nav__right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+.nav-btn {
+  border: 2px solid $color-comment;
+  text-decoration: none;
+  border-radius: 999px;
+  padding: .5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  min-height: 2.5rem;
+
+  transition: border-color .4s ease;
+
+  &:hover {
+    border-color: $color-red;
+  }
+}
+
+.nav-icon {
+  font-size: 1.5rem;
+
+  &.left {
+    margin-right: 1rem;
+  }
+
+  &.right {
+    margin-left: 1rem;
   }
 }
