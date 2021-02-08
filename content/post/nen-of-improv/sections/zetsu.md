@@ -19,6 +19,3 @@ In improv, Zetsu is essential when on the back line. If you've seen a show where
 Engaging Zetsu is simple! Avoid fidgeting (if possible), avoid chit-chat, plant your feet, and take advantage of your increased sensitivity to pay extra-close attention to the scene.
 
 When you are in the scene, use Ten. When you are not in the scene, use Zetsu. If you relax your Zetsu when not in the scene, you risk distracting the audience and disrupting the Yen of the performers in the scene.
-
-{{<figure src="/images/nen-of-improv/nen-irl.jpg"
-          caption="(Left) Thomas Middleditch using Ten to maintain stage presence while playing a demure character, as well as focus on what Ben Schwartz is doing. (Right) Ben Schwartz using Zetsu to avoid distracting the audience while switching characters.">}}

@@ -36,7 +36,7 @@ The four major principles of Yen (or Nen in HxH) are Ten, Zetsu, Ren, and Hatsu.
 
 {{% include "nen-of-improv/sections/ren.md" %}}
 
-### Hatsu
+### 4) Hatsu
 
 {{% include "nen-of-improv/sections/hatsu.md" %}}
 
@@ -44,7 +44,16 @@ The four major principles of Yen (or Nen in HxH) are Ten, Zetsu, Ren, and Hatsu.
 
 Now that you've learned the four major principles of Yen, it is time to apply them. By combining the four principles, you can make moves onstage that will amaze audiences and leave no question that you are a Pro Improvier!
 
-There are seven advanced techniques: Gyo, In, En, Shu, Ko, Ken, and Ryu. While the four major principles are relevant to all types of performance, these advanced techniques (as well as the specializations listed after) are specific to improv.
+There are seven advanced techniques: Gyo, In, En, Shu, Ko, Ken, and Ryu. While the four major principles are relevant to all types of performance, these advanced techniques (as well as the specializations listed after) are more specific to improv.
+
+### 1) Gyo
+
+{{% include "nen-of-improv/sections/gyo.md" %}}
+
+### 2) In
+
+{{% include "nen-of-improv/sections/in.md" %}}
+
 
 <!--
 
