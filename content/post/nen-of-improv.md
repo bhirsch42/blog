@@ -59,9 +59,9 @@ There are seven advanced techniques: Gyo, In, En, Shu, Ko, Ken, and Ryu. While t
 
 Gyo - The ability to focus nen into a particular body part. By focusing it in your eyes, you can see moves that the audience cannot. Use Gyo when watching great improvisers play to see how they do it!
 
-In - Hide your aura without turning it off. Use it to make subtle physical moves, like adding sound effects, playing inanimate objects, scene painting.
+In - Hide your aura without turning it off. Use it to make subtle physical moves, like adding sound effects, playing inanimate objects, scene painting. Object work WITHOUT scene painting. Brushing shoulders, putting a glass on an unestablished surface.
 
-En - Expand one's ren in a radius. Hyperactive listening and sensitivity. Soft focus.
+En - Expand one's ren in a radius. Hyperactive listening and sensitivity. Soft focus. Attention to the audience.
 
 Shu - Enshroud an object in nen. Using the environment, walk the stage before a show. Learn where the doors and windows are. Learn what you can interact with if you're borrowing a set. Chairs! Chairs! Chairs!
 
@@ -77,10 +77,10 @@ Six specializations
 
 Enhancement - Improv fundamentals
 Transmutation – Deep acting and character work
-Conjuration – Object work
-Specialization - Some people have such strong personalities that you can hardly see them as anything else. This can be incredibly powerful, like when a great stand-up does improv. Joke-telling. Charismatic.
-Emission – Side support
+Conjuration – Object work, world building, fundamentally it's idea generation
+Emission – Side support, making your scene partner look good. Giving a gift.
 Manipulation - Game and form
+Specialization - Some people have such strong personalities that you can hardly see them as anything else. This can be incredibly powerful, like when a great stand-up does improv. Joke-telling. Charismatic. *Finding your voice*
 
                    Fundamentals
 Side support                          Acting
